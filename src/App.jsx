@@ -10,7 +10,7 @@ const modules = {
     ["bold","italic","underline","strike","blockquote"],
     [{ 'align': [] }],
     [{ 'list': 'ordered'}, { 'list': 'bullet' }],
-    [{ 'indent': '-1'}, { 'indent': '+1' }],
+    [{ 'indent': '+1' }],
     [{ 'color': [] }, { 'background': [] }],    
     ["link","image"],    
 
