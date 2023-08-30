@@ -1,0 +1,20 @@
+.container{
+  position: relative;
+  height: 50vh;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.editor{
+  height: 60%;
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.editable{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
